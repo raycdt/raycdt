@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=beginner" alt="Typing SVG" />
-
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=IYONG_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=I'm+a+Beginner;Learning+every+day;Aspiring+Developer" alt="Typing SVG" />
