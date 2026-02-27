@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=beginner" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Aspiring+Developer;Learning+Python;Exploring+Automation;Tech+Enthusiast" alt="Typing SVG" />
